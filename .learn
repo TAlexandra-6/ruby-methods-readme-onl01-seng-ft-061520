@@ -12,4 +12,7 @@ unit:
   - methods and variables
 lesson: 
   - defining, calling, scope, arguments
+  
+greeting = Hello World
+
 
